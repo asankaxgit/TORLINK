@@ -43,8 +43,8 @@ No additional Python libraries are required for the script itself.
 
 <h2>Installation</h2>
 
-Clone the repository:git clone https://github.com/asankaxgit/TORLINK.git
-cd TORLINK
+Clone the repository:git clone https://github.com/asankaxgit/TorLink.git
+cd TorLink
 python links.py
 
 

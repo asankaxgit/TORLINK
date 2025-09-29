@@ -1,4 +1,8 @@
-Dark Web Links Directory
+
+▀▀█▀▀ ░█▀▀▀█ ░█▀▀█ 　 ░█─── ▀█▀ ░█▄─░█ ░█─▄▀ ░█▀▀▀█ 
+─░█── ░█──░█ ░█▄▄▀ 　 ░█─── ░█─ ░█░█░█ ░█▀▄─ ─▀▀▀▄▄ 
+─░█── ░█▄▄▄█ ░█─░█ 　 ░█▄▄█ ▄█▄ ░█──▀█ ░█─░█ ░█▄▄▄█
+
 Overview
 Dark Web Links Directory is a Python-based tool designed to display a curated list of dark web (.onion) links for educational and research purposes only. This tool aggregates publicly available .onion URLs to assist researchers and cybersecurity professionals in studying the structure and content of the dark web.
 
@@ -61,12 +65,10 @@ List categorized .onion links for research purposes.
 
 Important: To access the listed .onion links, you must use the Tor Browser. Do not attempt to access these links through a standard browser, as they are only accessible via the Tor network.
 Example Output
+
 █░█░█ █▀▀ █░░ █▀▀ █▀█ █▀▄▀█ █▀▀   ▀█▀ █▀█   ▀█▀ █▀█ █▀█   █▄░█ █▀▀ ▀█▀ █░█░█ █▀█ █▀█ █▄▀
 ▀▄▀▄▀ ██▄ █▄▄ █▄▄ █▄█ █░▀░█ ██▄   ░█░ █▄█   ░█░ █▄█ █▀▄   █░▀█ ██▄ ░█░ ▀▄▀▄▀ █▄█ █▀▄ █░█
 
-
-
-DISCLAIMER....>>>THIS SCRIPT ONLY MADE FOR RESEARCHES AND EDUCATIONAL PURPOSES ONLY
 
 http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/ – OnionLinks v3
 http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/ – The Hidden Wiki
